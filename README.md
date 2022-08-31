@@ -6,7 +6,7 @@
   color: 🏳️‍🌈;
   working_on: Data Engineer Yeah! 🔭
   learning: pyspark and mySQL
-  Fun_fact: I can drink a whole bottle of vodka 🍻
+  attribute: 🍫🐈🏋️‍♀️🍻☕️📈
   contact: tongwongtong034@gmail.com
   
 }
