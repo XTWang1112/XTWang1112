@@ -7,6 +7,7 @@
   working_on: Data Engineer Yeah! 🔭
   learning: pyspark and mySQL
   attribute: 🍫🐈🏋️‍♀️🍻☕️📈
+  interests: 🎸|Animal Crossing🦝
   contact: tongwongtong034@gmail.com
   
 }
