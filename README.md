@@ -4,7 +4,7 @@
   display: 👧🏻; 
   background: Data science graduate from University of Melbourne; 
   color: 🏳️‍🌈;
-  learning: pyspark|node express
+  learning: pyspark|airflow
   attribute: 🍫🐈🏋️‍♀️🍻☕️📈
   interests: 🎸|Animal Crossing🦝
   contact: tongwongtong034@gmail.com
