@@ -3,8 +3,9 @@
   position: Melbourne🦘; 
   display: 👧🏻; 
   background: Data science graduate from University of Melbourne; 
+  current: Software enginner intern in Freelancer.com
   color: 🏳️‍🌈;
-  learning: pyspark|airflow
+  learning: react.js
   attribute: 🍫🐈🏋️‍♀️🍻☕️📈
   interests: 🎸|Animal Crossing🦝
   contact: tongwongtong034@gmail.com
