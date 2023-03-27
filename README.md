@@ -3,11 +3,11 @@
   position: Melbourne🦘; 
   display: 👧🏻; 
   background: Data science graduate from University of Melbourne; 
-  current: Software enginner intern in Freelancer.com
+  current: Software enginner in Bukalapak
   color: 🏳️‍🌈;
-  learning: react.js
+  learning: Node.js
   attribute: 🍫🐈🏋️‍♀️🍻☕️📈
-  interests: 🎸|Animal Crossing🦝
+  interests: 🎸🎮
   contact: tongwongtong034@gmail.com
   
 }
