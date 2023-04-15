@@ -3,7 +3,7 @@
   position: Melbourne🦘; 
   display: 👧🏻; 
   background: Data science graduate from University of Melbourne; 
-  current: Software enginner in Bukalapak
+  current: Software engineer in Bukalapak
   color: 🏳️‍🌈;
   learning: Node.js
   attribute: 🍫🐈🏋️‍♀️🍻☕️📈
